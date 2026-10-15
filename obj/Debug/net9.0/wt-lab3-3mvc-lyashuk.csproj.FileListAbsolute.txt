@@ -1,0 +1,14 @@
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\bin\Debug\net9.0\wt-lab3-3mvc-lyashuk.exe
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\bin\Debug\net9.0\wt-lab3-3mvc-lyashuk.deps.json
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\bin\Debug\net9.0\wt-lab3-3mvc-lyashuk.runtimeconfig.json
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\bin\Debug\net9.0\wt-lab3-3mvc-lyashuk.dll
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\bin\Debug\net9.0\wt-lab3-3mvc-lyashuk.pdb
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.AssemblyInfoInputs.cache
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.AssemblyInfo.cs
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.csproj.CoreCompileInputs.cache
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.dll
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\refint\wt-lab3-3mvc-lyashuk.dll
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.pdb
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\wt-lab3-3mvc-lyashuk.genruntimeconfig.cache
+C:\Academy\wt\lab3\wt-lab3-3mvc-lyashuk\obj\Debug\net9.0\ref\wt-lab3-3mvc-lyashuk.dll
